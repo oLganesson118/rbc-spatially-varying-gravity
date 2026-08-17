@@ -1,6 +1,6 @@
 # Rayleigh-Bénard Convection with Spatially Varying Gravity as a Simplified Model of Convection in Plasma
 
-This repository contains the work from the project **“Rayleigh-Bénard Convection with Spatially Varying Gravity as a Simplified Model of Convection in Plasma”**, conducted by **Olga Borbély** under the supervision of **XX**.
+This repository contains the work from the project **“Rayleigh-Bénard Convection with Spatially Varying Gravity as a Simplified Model of Convection in Plasma”**, conducted by **Olga Borbély** under the supervision of **Dhrubaditya Mitra**.
 
 ## Project
 
